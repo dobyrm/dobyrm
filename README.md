@@ -1,10 +1,18 @@
-### Hi there 👋
+# Hello, I'm Roman!
 
-I'm Roman, a software engineer from Kyiv, Ukraine.
+I'm a **Software Engineer** from **Kyiv, Ukraine**.
 
-I'm focused on software development and passionate about tackling new challenges while striving for high-quality results in my projects. I have experience contributing to various applications and enjoy finding innovative solutions to complex problems.
+## About Me
 
-Outside of work, I have a keen interest in modern technologies, extreme sports, and photography.
+I focus on **software development** and have a passion for tackling new challenges while striving for high-quality results in my projects. I have experience contributing to various applications and enjoy finding innovative solutions to complex problems.
+
+## Interests
+
+- **Modern Technologies**
+- **Extreme Sports**
+- **Photography**
+
+Feel free to reach out if you'd like to connect or collaborate!
 
 <!--
 **dobyrm/dobyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
