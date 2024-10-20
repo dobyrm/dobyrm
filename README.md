@@ -1,9 +1,7 @@
 ### Hi there!
 
 I'm Roman, a software engineer from Kyiv, Ukraine.
-
 I focus on software development and am passionate about tackling new challenges while striving for high-quality results in my work. I have experience contributing to various projects and enjoy finding innovative solutions to complex problems.
-
 Outside of work, I have a keen interest in modern technologies, extreme sports, and photography.
 
 I will be glad to connect and collaborate!
