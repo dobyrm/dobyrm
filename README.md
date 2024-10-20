@@ -6,7 +6,7 @@ I focus on software development and am passionate about tackling new challenges 
 
 Outside of work, I have a keen interest in modern technologies, extreme sports, and photography.
 
-I would be glad to connect and collaborate!
+I will be glad to connect and collaborate!
 
 <!--
 **dobyrm/dobyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
